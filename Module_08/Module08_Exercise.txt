@@ -1,0 +1,19 @@
+Exercise - A network of gyms for women decided to carry out a study to verify the influence of physical exercise practiced by pregnant women on the weight of their babies.
+
+The objective is to assess the need to change or not the format of the exercises offered in the sessions with future mothers.
+
+Understanding the Problem
+
+How much does a pregnant woman usually exercise?
+Does the degree of exercise influence the baby's weight?
+What weights are most common for babies?
+I collected data from the gym, there are 500 registered pregnant women and I collected information from 50 pregnant women and the image below is of the first 16 pregnant women
+
+Reply:
+
+What population? The population is all pregnant women who attend the network of gyms that is 500 pregnant women.
+What sample? The sample is 50 pregnant women, which was the number of pregnant women I researched.
+What is the data source (Primary or Secondary)? The source is Primary (Because I collected the data)
+How many observations and variables? There are 50 observations and 2 variables.
+What types of variables? The variable type for Exercise Level is Qualitative Ordinal and Weight is Quantitative Continuous
+Does this data help answer the questions or do we need more data? They don't help, we need more data and information about pregnant women, only these two variables are insufficient.
