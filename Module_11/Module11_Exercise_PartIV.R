@@ -4,7 +4,7 @@ getwd()
 # Your model must predict the character from the given dataset. Use an SVM template
 
 ## Exploring and preparing the data
-letters <- read.csv("module11_part4.csv")
+letters <- read.csv("./data/module11_part4.csv")
 
 str(letters)
 

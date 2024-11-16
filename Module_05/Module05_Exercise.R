@@ -92,7 +92,7 @@ p
 install.packages("rjson")
 library("rjson")
 
-answer6 <- fromJSON(file = "/content/module5.json")
+answer6 <- fromJSON(file = "./data/module5.json")
 print(answer6)
 
 class(answer6)
@@ -113,13 +113,13 @@ install.packages("XML")
 library("XML")
 library("methods")
 
-answer8 <- xmlParse(file = "/content/module5.xml")
+answer8 <- xmlParse(file = "./data/module5.xml")
 print(answer8)
 
 class(answer8)
 
 # Exercise 9 - Convert the object created in the previous exercise into a dataframe
-answer9 <- xmlToDataFrame("module5.xml")
+answer9 <- xmlToDataFrame("./data/module5.xml")
 print(answer9)
 
 class(answer9)
@@ -127,7 +127,7 @@ class(answer9)
 View(answer9)
 
 # Exercise 10 - Upload the attached module5.csv file and then answer the following questions:
-df_exercise10 <- read.csv("module5.csv")
+df_exercise10 <- read.csv("./data/module5.csv")
 
 View(df_exercise10)
 

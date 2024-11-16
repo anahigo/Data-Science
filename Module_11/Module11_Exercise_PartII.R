@@ -5,7 +5,7 @@ getwd()
 # https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 # Loading the dataset
-df <- read.csv2('module11_part2.csv')
+df <- read.csv2('./data/module11_part2.csv')
 
 # Exploring the data
 View(df)

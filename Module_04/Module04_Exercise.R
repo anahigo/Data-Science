@@ -95,4 +95,5 @@ ggplot(mtcars, aes(x = as.factor(cyl), fill = as.factor(cyl))) +
   geom_barplot() +
   labs(fill = "cyl")
 
-# The error is in the "geom_barplot()" function, it says that this function could not be found. The correct would be "geom_bar()"
+# The error is in the "geom_barplot()" function, it says that this function 
+# could not be found. The correct would be "geom_bar()"
